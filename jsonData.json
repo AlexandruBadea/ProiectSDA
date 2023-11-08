@@ -1,0 +1,260 @@
+{
+    "tag": "body",
+    "childs": [
+        {
+            "tag": "div",
+            "attrs": {
+                "class": "row",
+                "style": "margin: 1%;"
+            },
+            "id": "1",
+            "childs": [
+                {
+                    "tag": "div",
+                    "attrs": {
+                        "class": "card"
+                    },
+                    "id": "2",
+                    "childs": [
+                        
+                        {
+                            "tag": "div",
+                            "attrs": {
+                                "class": "card-body",
+                                "style": "margin-left: 15px; margin-right: 15px;"
+                            },
+                            "id": "17",
+                            "childs": [
+                                {
+                                    "tag": "div",
+                                    "id": "18",
+                                    "childs": [
+                                        
+                                        {
+                                            "tag": "div",
+                                            "attrs": {
+                                                "class": "row"
+                                            },
+                                            "id": "25",
+                                            "childs": [
+                                                {
+                                                    "tag": "div",
+                                                    "attrs": {
+                                                        "class": "row",
+                                                        "style": "margin-bottom: 10px; margin-top: 10px;"
+                                                    },
+                                                    "content": "<div class='col-md-12'><hr/></div>"
+                                                },
+                                                {
+                                                    "tag": "div",
+                                                    "attrs": {
+                                                        "class": "row"
+                                                    },
+                                                    "id": "107",
+                                                    "childs": [
+                                                        {
+                                                            "tag": "div",
+                                                            "attrs": {
+                                                                "class": "row",
+                                                                "style": "padding-top: 15px; margin-bottom: 20px; margin-top: 20px;"
+                                                            }
+                                                            },
+                                                        {
+                                                            "tag": "div",
+                                                            "attrs": {
+                                                                "class": "row collapse collapse-detalii"
+                                                            },
+                                                            "id": "108",
+                                                            "childs": [
+                                                                
+                                                                
+                                                                {
+                                                                    "tag": "div",
+                                                                    "attrs": {
+                                                                        "class": "col-md-4",
+                                                                        "style": "padding-left: 0px;"
+                                                                    },
+                                                                    "id": "145",
+                                                                    "childs": [
+                                                                        {
+                                                                            "tag": "div",
+                                                                            "attrs": {
+                                                                                "class": "panel panel-default",
+                                                                                "style": "border-left: 2px solid rgb(51,129,221);"
+                                                                            },
+                                                                            "id": "146",
+                                                                            "childs": [
+                                                                                {
+                                                                                    "tag": "div",
+                                                                                    "attrs": {
+                                                                                        "class": "panel-heading",
+                                                                                        "style": "font-weight: 500;"
+                                                                                    },
+                                                                                    "content": "Adresa domiciliu"
+                                                                                },
+                                                                                {
+                                                                                    "tag": "div",
+                                                                                    "attrs": {
+                                                                                        "class": "panel-body",
+                                                                                        "style": "min-height: 220px;"
+                                                                                    },
+                                                                                    "id": "147",
+                                                                                    "childs": [
+                                                                                        {
+                                                                                            "tag": "div",
+                                                                                            "attrs": {
+                                                                                                "class": "row",
+                                                                                                "style": "margin-bottom: 10px; margin-top: 10px;"
+                                                                                            },
+                                                                                            "id": "148",
+                                                                                            "childs": [
+                                                                                                {
+                                                                                                    "tag": "div",
+                                                                                                    "attrs": {
+                                                                                                        "class": "col-md-3"
+                                                                                                    },
+                                                                                                    "id": "149",
+                                                                                                    "childs": [
+                                                                                                        {
+                                                                                                            "content": "Judet "
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "ro": true
+                                                                                                },
+                                                                                                {
+                                                                                                    "tag": "div",
+                                                                                                    "attrs": {
+                                                                                                        "class": "col-md-3"
+                                                                                                    },
+                                                                                                    "id": "155",
+                                                                                                    "childs": [
+                                                                                                        {
+                                                                                                            "tag": "select",
+                                                                                                            "type": 11,
+                                                                                                            "attrs": {
+                                                                                                                "class": "form-control input-sm",
+                                                                                                                "session-cache": "false",
+                                                                                                                "type": "text"
+                                                                                                            },
+                                                                                                            "id": "156",
+                                                                                                            "param": "CurrentDigitizationOfThePetitionServiceDetails.cityId",
+                                                                                                            "lovId": "4300IRule",
+                                                                                                            "ro": true,
+                                                                                                            "sbmt": true,
+                                                                                                            "val": "678",
+                                                                                                            "desc": [
+                                                                                                                {
+                                                                                                                    "val": "678",
+                                                                                                                    "desc": "Sector 6"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "ro": true
+                                                                                                }
+                                                                                            ],
+                                                                                            "ro": true
+                                                                                        },
+                                                                                        {
+                                                                                            "tag": "div",
+                                                                                            "attrs": {
+                                                                                                "class": "row",
+                                                                                                "style": "margin-bottom: 10px; margin-top: 10px;"
+                                                                                            },
+                                                                                            "id": "169",
+                                                                                            "childs": [
+                                                                                                
+                                                                                                {
+                                                                                                    "tag": "div",
+                                                                                                    "attrs": {
+                                                                                                        "class": "col-md-3"
+                                                                                                    },
+                                                                                                    "id": "176",
+                                                                                                    "childs": [
+                                                                                                        {
+                                                                                                            "tag": "input",
+                                                                                                            "attrs": {
+                                                                                                                "class": "form-control input-sm",
+                                                                                                                "placeholder": "Apartament..",
+                                                                                                                "type": "text"
+                                                                                                            },
+                                                                                                            "id": "177",
+                                                                                                            "param": "CurrentDigitizationOfThePetitionServiceDetails.apartment",
+                                                                                                            "ro": true,
+                                                                                                            "val": ""
+                                                                                                        }
+                                                                                                    ],
+                                                                                                    "ro": true
+                                                                                                }
+                                                                                            ],
+                                                                                            "ro": true
+                                                                                        }
+                                                                                    ],
+                                                                                    "ro": true
+                                                                                }
+                                                                            ],
+                                                                            "ro": true
+                                                                        }
+                                                                    ],
+                                                                    "ro": true
+                                                                }
+                                                            ],
+                                                            "ro": true
+                                                        }
+                                                    ],
+                                                    "ro": true
+                                                }
+                                            ],
+                                            "ro": true
+                                        }
+                                    ],
+                                    "ro": true
+                                }
+                                
+                            ]
+                        },
+                        
+                    
+                        {
+                            "tag": "div",
+                            "attrs": {
+                                "class": "row",
+                                "style": "margin-bottom: 10px;"
+                            },
+                            "id": "529",
+                            "childs": [
+                                {
+                                    "tag": "div",
+                                    "attrs": {
+                                        "class": "col-md-12"
+                                    },
+                                    "id": "530"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tag": "style",
+                    "attrs": {
+                        "type": "text/css"
+                    }
+                    },
+                {
+                    "tag": "script",
+                    "attrs": {
+                        "type": "text/javascript"
+                    },
+                    "id": "533"
+                    
+                },
+                {
+                    "tag": "script",
+                    "attrs": {
+                        "type": "text/javascript"
+                    }
+                }
+            ]
+        }
+    ]
+}
